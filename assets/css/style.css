@@ -1,0 +1,10 @@
+body {
+    background-color: #ECEEEC;
+    background-image:  url('../../assets/image/noise-bg-gray.png'), url('../../assets/image/ellipse.png');
+    background-repeat: repeat, no-repeat;
+    background-position: left top, top right;
+}
+
+.g-row-height {
+    height: 100dvh;
+}
