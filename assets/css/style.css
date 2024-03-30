@@ -1,6 +1,6 @@
 body {
     background-color: #ECEEEC;
-    background-image:  url('../../assets/image/noise-bg-gray.png'), url('../../assets/image/ellipse.png');
+    background-image:  url('../../assets/image/noise-bg-gray.png'), url('../../assets/image/ellipse-v1.png');
     background-repeat: repeat, no-repeat;
     background-position: left top, top right;
 }
